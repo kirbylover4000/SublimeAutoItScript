@@ -3,7 +3,7 @@
 	"selector": "source.autoit",
 	"variants": [
 		{
-			"name": "Run",
+			"name": "Compile",
 			"target": "autoitcompile"
 		}
 	]
